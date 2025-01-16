@@ -1,0 +1,88 @@
+[[Conspire]]
+arch = "aarch64"
+git-tree-sha1 = "16cee1b10e5e156d78aaad181ba3f55609ee4ab8"
+os = "macos"
+
+    [[Conspire.download]]
+    sha256 = "afbdebf3cb912f2c93cc597190d7f090bb86900f3905ea3b22118394d3181e81"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[Conspire]]
+arch = "aarch64"
+git-tree-sha1 = "92a6b7d9d3b81223f6764aff7b0409f1d7333e9d"
+libc = "glibc"
+os = "linux"
+
+    [[Conspire.download]]
+    sha256 = "1cbe8038c0518c1ee31020b600dc41600285eef97aa8078be67c583cc25b3a8c"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[Conspire]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d73f75f53c1e0dc1361f9290b2b3998c167c859"
+libc = "glibc"
+os = "linux"
+
+    [[Conspire.download]]
+    sha256 = "472347106c6b49b63469733a1b9e91e6ee21a13fb08ae85ea844a643092032c7"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[Conspire]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "62bda320d28c92b286cdc5da533d9812483d4d45"
+libc = "glibc"
+os = "linux"
+
+    [[Conspire.download]]
+    sha256 = "e91c3cc1a7cee983dc70f88cd3745d8ccd102bb9c6f101a23e19ec58b9c27846"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[Conspire]]
+arch = "i686"
+git-tree-sha1 = "304b013cc6ca2a8ad1fb199438e2b4c5efd64b1a"
+libc = "glibc"
+os = "linux"
+
+    [[Conspire.download]]
+    sha256 = "321d3a13138b615633f4317c47608fca60630ca7ee90ae0666669c355ba31730"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.i686-linux-gnu.tar.gz"
+[[Conspire]]
+arch = "powerpc64le"
+git-tree-sha1 = "f057c90873aaf6c5cb4393b0272c86c41393386f"
+libc = "glibc"
+os = "linux"
+
+    [[Conspire.download]]
+    sha256 = "dfc4dfbbf33769b424af4cafe8a2a824d61230e7659dde0e47beb2c43ecfc7da"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[Conspire]]
+arch = "x86_64"
+git-tree-sha1 = "0bcc0d7d6899df53f0fe176af41797b2fae3106a"
+os = "macos"
+
+    [[Conspire.download]]
+    sha256 = "ba0b19d03ba69cb7b23fac9a0217f624f8e47535f0c22c8a740f53e386be31c3"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[Conspire]]
+arch = "x86_64"
+git-tree-sha1 = "78e8d317e1e16dfc7fe5363bc6d4d3a90b040c2b"
+libc = "glibc"
+os = "linux"
+
+    [[Conspire.download]]
+    sha256 = "b826d2a04e160630afbb79e405233696bccfd0f60c915a55c424ff8b40153ce3"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[Conspire]]
+arch = "x86_64"
+git-tree-sha1 = "42537955422212fa3f8e571ae418cfc220a10726"
+os = "freebsd"
+
+    [[Conspire.download]]
+    sha256 = "c5a2996d5958774e31073919b52e229956a2502560dc8a4939857d912ba36083"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[Conspire]]
+arch = "x86_64"
+git-tree-sha1 = "d7bc4d3599b3a60cf4b1eb99125046d86540f558"
+os = "windows"
+
+    [[Conspire.download]]
+    sha256 = "f7ffda95e025bc4bbc4c3835302b9dfdff23076649228dde7308bf8c54d59b68"
+    url = "https://github.com/JuliaBinaryWrappers/Conspire_jll.jl/releases/download/Conspire-v0.1.0+0/Conspire.v0.1.0.x86_64-w64-mingw32.tar.gz"
